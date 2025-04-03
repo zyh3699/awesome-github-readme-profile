@@ -1,6 +1,99 @@
 <div align="center">
   
   <!-- 增强标题横幅 - 使用更动感的渐变色 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=GitHub Profile Template&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=white&desc=打造精美的个人GitHub主页&descAlignY=55" />
+  
+  # 🌟 个性化 GitHub Profile 模板
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=专业美观+%7C+易于定制+%7C+功能丰富;打造令人印象深刻的GitHub个人主页;提升个人品牌形象，展示专业技能;让你的个人主页脱颖而出)](https://git.io/typing-svg)
+
+  <p align="center">
+    <a href="#模板介绍"><img src="https://img.shields.io/badge/模板介绍-FF5F6D?style=for-the-badge" alt="模板介绍"/></a>
+    <a href="#使用教程"><img src="https://img.shields.io/badge/使用教程-FFC371?style=for-the-badge" alt="使用教程"/></a>
+    <a href="#模板展示"><img src="https://img.shields.io/badge/模板展示-2C9CDF?style=for-the-badge" alt="模板展示"/></a>
+    <a href="#许可协议"><img src="https://img.shields.io/badge/许可协议-A6CE39?style=for-the-badge" alt="许可协议"/></a>
+  </p>
+</div>
+
+<!-- 添加动态波浪分隔符 -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+
+<h2 id="模板介绍" align="center">
+  <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+  模板介绍
+</h2>
+
+这是一个专为开发者设计的高质量 GitHub Profile 模板，旨在帮助您创建一个令人印象深刻的个人主页，展示您的技能、项目和贡献。
+
+### ✨ 模板特点
+
+- **视觉吸引力**：精心设计的动态元素和现代化布局
+- **完全可定制**：所有部分均可根据个人需求进行调整
+- **响应式设计**：在不同设备上都能完美展示
+- **丰富组件**：包含多种展示个人技能和项目的方式
+- **易于使用**：详细的注释和清晰的结构便于修改
+
+### 🎯 适用对象
+
+- 希望建立个人品牌的开发者
+- 求职者和自由职业者
+- 开源项目贡献者
+- 学生和研究人员
+- 任何希望在 GitHub 上展示专业形象的人
+
+<h2 id="使用教程" align="center">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
+  使用教程
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
+</h2>
+
+### 步骤 1: 创建特殊仓库
+
+1. 登录您的 GitHub 账户
+2. 创建一个与您的 GitHub 用户名完全相同的新仓库
+3. 例如，如果您的用户名是 "devuser"，则创建名为 "devuser" 的仓库
+
+### 步骤 2: 复制模板内容
+
+1. 将本模板的 README.md 文件内容复制到您新创建的仓库中
+2. 可以直接使用 GitHub 网页编辑器创建并编辑 README.md 文件
+
+### 步骤 3: 个性化定制
+
+1. 替换所有示例信息为您自己的个人信息
+2. 修改以下关键部分：
+   - 标题和描述
+   - 社交媒体链接
+   - 技能图标
+   - 项目展示
+   - 个人简介
+
+### 步骤 4: 美化您的主页
+
+1. 调整颜色和动画效果以符合您的个人风格
+2. 可选择性地添加或删除各个部分
+3. 确保所有链接正确指向您的实际资源
+
+### 步骤 5: 提交更改
+
+1. 提交您的更改到主分支
+2. 访问您的 GitHub 个人主页查看效果（例如：https://github.com/yourusername）
+
+<!-- 动态分隔符 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
+</div>
+
+<h2 id="模板展示" align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+  模板展示
+</h2>
+
+以下是本模板实际效果的展示：
+
+<div align="center">
+  
+  <!-- 增强标题横幅 - 使用更动感的渐变色 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Yuanhao-Zhong&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=及时止损，渐入佳境&descAlignY=55" />
   
   # 👋 Hello，here is Zephyr Zhong
@@ -145,10 +238,6 @@
   </a>
 </div>
 
-<!-- 关于我部分 - 统一标题样式并对齐图标 -->
-
-<!-- 代码片段展示 - 统一标题样式并对齐图标 -->
-
 <!-- GitHub 活动图 - 统一标题样式并对齐图标 -->
 <h2 align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25px" width="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
@@ -186,4 +275,44 @@
 
 <!-- 添加波浪动画页脚 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
+
+<!-- 动态分隔符 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
 </div>
+
+<h2 id="许可协议" align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+  许可协议
+</h2>
+
+<div align="center">
+  <p>本模板采用 <a href="https://opensource.org/licenses/MIT">MIT 许可证</a> 进行授权</p>
+  
+  <p>您可以自由地：</p>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>✅ 使用本模板创建个人 GitHub Profile</li>
+    <li>✅ 修改和定制以满足您的需求</li>
+    <li>✅ 分发您修改后的版本</li>
+  </ul>
+  
+  <p>条件是：</p>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>📝 保留原始版权声明</li>
+    <li>📝 不追究作者责任</li>
+  </ul>
+  
+  <p>
+    <a href="https://opensource.org/licenses/MIT">
+      <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="MIT License" />
+    </a>
+  </p>
+</div>
+
+<!-- 页脚 -->
+<p align="center">
+  <i>如果您觉得这个模板有帮助，请考虑给一个⭐️支持一下!</i> 
+</p>
+
+<!-- 添加波浪动画页脚 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
