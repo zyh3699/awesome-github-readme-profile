@@ -27,7 +27,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v2
         with:
-          github_user_name: zyh3699
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
