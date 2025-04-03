@@ -1,8 +1,5 @@
 <div align="center">
   
-  <!-- 增强标题横幅 - 使用更动感的渐变色 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=GitHub Profile Template&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=white&desc=打造精美的个人GitHub主页&descAlignY=55" />
-  
   # 🌟 个性化 GitHub Profile 模板
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=专业美观+%7C+易于定制+%7C+功能丰富;打造令人印象深刻的GitHub个人主页;提升个人品牌形象，展示专业技能;让你的个人主页脱颖而出)](https://git.io/typing-svg)
