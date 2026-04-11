@@ -8,12 +8,58 @@
 
 <p align="center">
   <a href="./README.md"><img src="https://img.shields.io/badge/English-7C3AED?style=for-the-badge" /></a>
+  <a href="#效果预览"><img src="https://img.shields.io/badge/效果预览-6D28D9?style=for-the-badge" /></a>
   <a href="#模板特点"><img src="https://img.shields.io/badge/模板特点-5B21B6?style=for-the-badge" /></a>
   <a href="#快速开始"><img src="https://img.shields.io/badge/快速开始-4338CA?style=for-the-badge" /></a>
   <a href="#actions-配置"><img src="https://img.shields.io/badge/Actions配置-0E7490?style=for-the-badge" /></a>
   <a href="#个性化定制"><img src="https://img.shields.io/badge/个性化定制-06B6D4?style=for-the-badge" /></a>
 </p>
 
+</div>
+
+---
+
+## 🖼️ 效果预览 <a id="效果预览"></a>
+
+> 以下预览全部**实时加载**，直接来自演示主页 [`zyh3699/zyh3699`](https://github.com/zyh3699/zyh3699)。
+
+### 横幅 + 徽章
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=160&section=header&text=Yuanhao%20Zhong&fontSize=52&fontAlignY=40&animation=fadeIn&fontColor=white&desc=AI4Data%20%C2%B7%20AI%20Agents%20%C2%B7%20Multimodal%20LLMs&descAlignY=62&descSize=16" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=600&lines=AI4Data+Researcher+%7C+AI+Agent+Builder;Multimodal+LLM+Explorer;Data-Driven+%C2%B7+Agent-Powered+%C2%B7+Vision-Aware" />
+</div>
+
+### 技能图标墙
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,pytorch,tensorflow,mongodb,linux,matlab,html,css,js,git,vscode,latex,github,docker&perline=9" />
+</div>
+
+### 贡献统计卡片
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zyh3699&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zyh3699&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zyh3699&theme=tokyonight" width="32%" />
+</div>
+
+### Snake 贡献动画
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zyh3699/zyh3699/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zyh3699/zyh3699/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/zyh3699/zyh3699/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+</div>
+
+### 活动热力图 + 3D 贡献图
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zyh3699&theme=tokyonight" width="100%" />
+<img src="https://raw.githubusercontent.com/zyh3699/zyh3699/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
 
 ---
