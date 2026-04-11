@@ -75,7 +75,7 @@ Snake 动画和 3D 贡献图需要两个 workflow，详见下方 **[Actions 配�
 
 ## ⚙️ Actions 配置 <a id="actions-配置"></a>
 
-将 [`zyh3699/zyh3699/.github/workflows/`](https://github.com/zyh3699/zyh3699/tree/main/.github/workflows) 中的两个 workflow 文件复制到你仓库的 `.github/workflows/` 目录下。
+将本仓库 [`.github/workflows/`](https://github.com/zyh3699/awesome-github-readme-profile/tree/main/.github/workflows) 中的两个 workflow 文件复制到你仓库的 `.github/workflows/` 目录下。
 
 ### Snake 动画（`snake.yml`）
 
@@ -115,7 +115,7 @@ https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-
 
 **首次运行：**
 
-进入 **Actions** → `3D贡献图` → **Run workflow**
+进入 **Actions** → `3D Contribution Graph` → **Run workflow**
 
 生成后路径为：
 ```

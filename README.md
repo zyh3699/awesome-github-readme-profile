@@ -75,7 +75,7 @@ Commit your changes, then visit `github.com/YOUR_USERNAME` to see your live prof
 
 ## ⚙️ GitHub Actions Setup <a id="github-actions-setup"></a>
 
-Copy the two workflow files from [`zyh3699/zyh3699/.github/workflows/`](https://github.com/zyh3699/zyh3699/tree/main/.github/workflows) into your repo's `.github/workflows/` folder.
+Copy the two workflow files from [`.github/workflows/`](https://github.com/zyh3699/awesome-github-readme-profile/tree/main/.github/workflows) in this repo into your repo's `.github/workflows/` folder.
 
 ### Snake Animation (`snake.yml`)
 
@@ -119,7 +119,7 @@ This workflow needs write access via a PAT (the default `GITHUB_TOKEN` has read-
 
 **First run:**
 
-Go to **Actions** → `3D贡献图` → **Run workflow**
+Go to **Actions** → `3D Contribution Graph` → **Run workflow**
 
 The graph will be available at:
 ```
