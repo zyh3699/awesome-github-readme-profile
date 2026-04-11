@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=180&section=header&text=GitHub%20Profile%20Template&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=white&desc=A%20clean%2C%20modern%20profile%20README%20for%20researchers%20%26%20developers&descAlignY=60&descSize=15" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=180&section=header&text=GitHub%20Profile%20Template&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=white&desc=A%20clean%2C%20modern%20profile%20README&descAlignY=62&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=620&lines=Dark+purple+%E2%86%92+cyan+color+scheme;Snake+animation+%2B+3D+contribution+graph;Fully+customizable+%7C+Copy+%26+Adapt)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=620&lines=Dark+purple+%E2%86%92+cyan+color+scheme;Snake+animation+%2B+3D+contribution+graph;Fully+customizable+%7C+Copy+%26+Adapt" />
 
 <p align="center">
-  <a href="#features"><img src="https://img.shields.io/badge/Features-7C3AED?style=for-the-badge" /></a>
-  <a href="#quick-start"><img src="https://img.shields.io/badge/Quick%20Start-5B21B6?style=for-the-badge" /></a>
-  <a href="#github-actions-setup"><img src="https://img.shields.io/badge/Actions%20Setup-4338CA?style=for-the-badge" /></a>
+  <a href="./README_CN.md"><img src="https://img.shields.io/badge/中文文档-7C3AED?style=for-the-badge" /></a>
+  <a href="#features"><img src="https://img.shields.io/badge/Features-5B21B6?style=for-the-badge" /></a>
+  <a href="#quick-start"><img src="https://img.shields.io/badge/Quick%20Start-4338CA?style=for-the-badge" /></a>
+  <a href="#github-actions-setup"><img src="https://img.shields.io/badge/Actions%20Setup-0E7490?style=for-the-badge" /></a>
   <a href="#customization"><img src="https://img.shields.io/badge/Customization-06B6D4?style=for-the-badge" /></a>
 </p>
 
