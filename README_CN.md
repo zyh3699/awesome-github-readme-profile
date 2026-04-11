@@ -1,3 +1,5 @@
+<p><a href="./README.md">English</a> | <b>简体中文</b></p>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=180&section=header&text=GitHub%20Profile%20%E6%A8%A1%E6%9D%BF&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=white&desc=%E6%B7%B1%E8%89%B2%E7%B3%BB%E3%80%81%E5%8A%A8%E6%80%81%E6%95%88%E6%9E%9C%E3%80%81%E5%BC%80%E7%AE%B1%E5%8D%B3%E7%94%A8&descAlignY=62&descSize=16" />

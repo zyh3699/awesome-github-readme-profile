@@ -1,3 +1,5 @@
+<p><b>English</b> | <a href="./README_CN.md">简体中文</a></p>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=180&section=header&text=GitHub%20Profile%20Template&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=white&desc=A%20clean%2C%20modern%20profile%20README&descAlignY=62&descSize=16" />
