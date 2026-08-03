@@ -175,7 +175,54 @@ https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/profile-3d-co
 After the first run, it updates automatically every day at 18:00 UTC.
 
 ---
+### Locally Generated Summary Cards (`profile-summary-cards.yml`)
 
+The public `github-profile-summary-cards.vercel.app` endpoint may occasionally
+be unavailable or rate-limited. This optional workflow generates the cards
+directly in your profile repository.
+
+#### 1. Create a Personal Access Token
+
+Create a classic Personal Access Token with:
+
+- `read:user`
+- `public_repo` for public repositories
+- `repo` instead of `public_repo` if private repository statistics are required
+
+#### 2. Add the repository secret
+
+Go to:
+
+`Settings → Secrets and variables → Actions → New repository secret`
+
+Use:
+
+```text
+Name: SUMMARY_GITHUB_TOKEN
+Value: your Personal Access Token
+#### 3. Enable workflow write permission
+
+Go to:
+
+`Settings → Actions → General → Workflow permissions
+
+Select:Read and write permissions
+
+#### 4. Run the workflow
+
+Go to:
+
+`Actions → GitHub Profile Summary Cards → Run workflow
+After the first successful run, use the locally generated SVG files:
+<div align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg"
+       width="49%"
+       alt="GitHub Stats" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg"
+       width="49%"
+       alt="Top Languages" />
+</div>
+The workflow runs once per day and automatically updates the generated cards.
 ## 🎨 Customization <a id="customization"></a>
 
 ### Color scheme
