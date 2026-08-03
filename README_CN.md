@@ -171,6 +171,52 @@ https://raw.githubusercontent.com/你的用户名/你的用户名/main/profile-3
 > ⚠️ 重要：3D 贡献图的颜色配置需要同时修改 `profile-3d-contrib/settings.json` 和 `profile-3d.yml` 中内联的 JSON，否则 workflow 运行时会用旧配置覆盖文件。
 
 ---
+### 本地生成统计卡片（`profile-summary-cards.yml`）
+
+公共统计卡片服务有时可能出现不可用、限流或图片加载失败的问题。
+这个可选 Workflow 会将统计卡片直接生成到用户自己的 Profile 仓库中。
+
+#### 创建 Personal Access Token
+
+创建 Classic Personal Access Token，并勾选：
+
+- `read:user`
+- 只统计公开仓库时使用 `public_repo`
+- 需要统计私有仓库时使用 `repo`
+
+#### 添加 Repository Secret
+
+进入：
+
+`Settings → Secrets and variables → Actions → New repository secret`
+
+填写：
+
+```text
+Name: SUMMARY_GITHUB_TOKEN
+Value: 你的 Personal Access Token
+
+开启 Actions 写入权限
+
+进入：
+
+`Settings → Actions → General → Workflow permissions
+
+选择：
+
+Read and write permissions
+首次运行
+
+进入：
+
+`Actions → GitHub Profile Summary Cards → Run workflow
+
+运行成功后，可以在 README 中使用：
+<div align="center">
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub Stats"/>
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Top Languages"/>
+</div>
+Workflow 每天自动运行一次。
 
 ## 🎨 个性化定制 <a id="个性化定制"></a>
 
